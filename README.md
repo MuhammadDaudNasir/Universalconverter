@@ -24,8 +24,8 @@ Secure files with military-grade AES-256-GCM or ChaCha20-Poly1305 using Argon2id
 <img width="1095" height="676" alt="Screenshot 2026-07-03 at 7 37 19 PM" src="https://github.com/user-attachments/assets/b031309d-1607-48e6-be66-f79570e142d5" />
 
 
-# **Feature three: Data formats (broken)**
-This one is currently broken, but here's what it does: it allows you to convert hierarchical formats like JSON, YAML, TOML, XML, and tabular CSV files.
+# **Feature three: Data formats (broken/work in progress)**
+This one is currently WIP, but here's what it does: it allows you to convert hierarchical formats like JSON, YAML, TOML, XML, and tabular CSV files.
 (I will be fixing this one soon, but I can't seem to find the issue with the keyboard-based interaction.)
 <img width="1092" height="687" alt="Screenshot 2026-07-03 at 7 20 17 PM" src="https://github.com/user-attachments/assets/5ceaebfa-4dbf-4a72-8a6f-50fb9ad06904" />
 
