@@ -2,6 +2,8 @@
 A universal compressor, converter, and encryptor for Mac! Designed for #Horizons.
 This converter is a simple TUI (terminal UI) app that allows you to convert, compress, and encrypt files on Mac, right from the terminal. No need for websites or tools that have a monthly subscription. i really made this one just because when i needed to convert something and i had a spotty connection, it was prettty annoying, and no more dealing with size limits too, and the risk of privacy breach too lol.
 
+note to horizion reviewers: i made this app in like 3 hours (5 hours including planning) so i didnt make the repo first, thats an issue on my end as i thought that i couldn't really add incremental push progress to it so please pardon me for pushing it all at once.
+
 using the simple command of: ``` uniconvert ```
 
 
