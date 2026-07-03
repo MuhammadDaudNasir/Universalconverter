@@ -6,6 +6,9 @@ note to horizion reviewers: i made this app in like 3 hours (5 hours including p
 
 using the simple command of: ``` uniconvert ```
 
+## AI Use in Development
+
+Since I'm still getting familiar with Go, I used AI to help troubleshoot compilation errors and a few language-specific bugs. The project itself, including the idea, architecture, features, and implementation, was built by me. AI mainly acted as a debugging assistant while I learned the language.
 
 # Stack
 Uniconvert is made in Go, using the **charm.sh TUI framework** (`bubbletea`, `lipgloss`, `bubbles`).
