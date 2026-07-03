@@ -98,4 +98,6 @@ Here's what I'd like to add as the project evolves.
 - Linux support
 - Windows support
 
+funny note: i had to use apple emojis cause i wasn't able to use phosphor icons
+
 made with <3 by me! for hackclub horizions.
